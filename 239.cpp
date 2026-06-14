@@ -1,6 +1,5 @@
 // 239. Sliding Window Maximum
 // priority queue and sliding window
-#include <climits>
 #include <iostream>
 #include <queue>
 #include <vector>
