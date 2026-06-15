@@ -68,6 +68,7 @@ dsa/
 
 | File | Problem | Approach | Difficulty |
 |------|---------|----------|------------|
+| `15.cpp`  | [3 Sum](https://leetcode.com/problems/3sum/) | Sorting + Array | Medium |
 | `215.cpp` | [Kth Largest Element](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Max Heap | Medium |
 | `238.cpp` | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Prefix × Suffix | Medium |
 | `347.cpp` | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | HashMap + Heap | Medium |
