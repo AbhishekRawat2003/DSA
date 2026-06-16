@@ -62,6 +62,7 @@ dsa/
 | `buy_Sell.cpp` | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Track min price | Easy |
 | `nextPermutation.cpp` | [Next Permutation](https://leetcode.com/problems/next-permutation/) | Find pivot + reverse | Medium |
 | `allPermutation.cpp` | All Permutations | Backtracking | Medium |
+|`283.cpp`| [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Two Pointer | Easy |
 
 ---
 

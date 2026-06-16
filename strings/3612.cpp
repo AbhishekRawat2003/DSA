@@ -8,9 +8,6 @@ class Solution {
 public:
   string processStr(string s) {
     string st;
-    int len = s.size();
-    int left = 0;
-    int right = 0;
     for (char c : s) {
       if (c >= 'a' && c <= 'z') {
         st.push_back(c);
