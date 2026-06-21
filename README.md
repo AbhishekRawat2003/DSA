@@ -104,6 +104,11 @@ dsa/
 |------|---------|----------|------------|
 | `371.cpp`| [Sum of Two Integer](https://leetcode.com/problems/sum-of-two-integers/) | Bit Manupilation | Medium |
 
+### Greedy (`Greedy/`)
+| File | Problem | Approach | Difficulty |
+|------|---------|----------|------------|
+| `1833.cpp`| [Maximum ice cream bars](https://leetcode.com/problems/maximum-ice-cream-bars/) | Greedy | Medium |
+
 ### 🏔️ Heap & Sorting (`heap/`)
 
 | File | Problem | Approach | Difficulty |
