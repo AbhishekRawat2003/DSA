@@ -51,6 +51,7 @@ dsa/
 | `allocateMinimum.cpp` | [Allocate Minimum Pages (GFG)](https://www.geeksforgeeks.org/allocate-minimum-number-pages/) | Binary search on answer | Hard |
 | `painterPartition.cpp` | [Painter's Partition Problem (GFG)](https://www.geeksforgeeks.org/painters-partition-problem/) | Binary search on answer | Hard |
 | `binaryExponential.cpp` | Binary Exponentiation (Fast Power) | Recursive divide & conquer | Medium |
+| `374.cpp` | [Guess the number](https://leetcode.com/problems/guess-number-higher-or-lower/) | Binary Search | Easy |
 
 ---
 
@@ -70,6 +71,7 @@ dsa/
 | `buy_Sell.cpp` | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Track min price | Easy |
 | `nextPermutation.cpp` | [Next Permutation](https://leetcode.com/problems/next-permutation/) | Find pivot + reverse | Medium |
 | `allPermutation.cpp` | All Permutations | Backtracking | Medium |
+|`986.cpp`| [Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/) | Two Pointer | Medium|
 
 ---
 
