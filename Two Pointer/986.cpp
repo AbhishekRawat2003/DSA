@@ -6,15 +6,25 @@ public:
   vector<vector<int>> intervalIntersection(vector<vector<int>> &firstList,
                                            vector<vector<int>> &secondList) {
     vector<vector<int>> res;
-    int left = 0;
-    int right = 0;
-    while (firstList.size() <= secondList.size()) {
-      // case1
-      if (secondList[right][0] < firstList[left][1] &&
-          secondList[right][1] > firstList[left][0]) { // intersection
-        // res.push_back({max(secondList)})
+    int i = 0, j = 0;
+
+    while (i < firstList.size() && j < secondList.size()) {
+
+      int start = max(firstList[i][0], secondList[j][0]);
+      int end = min(firstList[i][1], secondList[j][1]);
+
+      if (start <= end) {
+        res.push_back({start, end});
+      }
+
+      if (firstList[i][1] < secondList[j][1]) {
+        i++;
+      } else {
+        j++;
       }
     }
+
+    return res;
   }
 };
 int main() {
