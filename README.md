@@ -120,6 +120,12 @@ dsa/
 | `QuickSelect.cpp` | Kth Smallest (QuickSelect) | Lomuto partition | Medium |
 
 ---
+### 🏔️ Dynamic Programmming (`Dynamic Programming/`)
+
+| File | Problem | Approach | Difficulty |
+|------|---------|----------|------------|
+|`Fibonnnacci.cpp`|Fibonnaci Seriec| DP + recursive + Memoization| Easy|
+
 
 ## 🛠️ How to Run
 
