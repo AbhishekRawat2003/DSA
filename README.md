@@ -126,7 +126,7 @@ dsa/
 |------|---------|----------|------------|
 |`Fibonnnacci.cpp`|Fibonnacci Series| DP + Recursion 🔄 + Memoization| Easy|
 |`Fibonnnacci_1.cpp`|Fibonnacci Series| DP + Memoization -> Tabulation | Easy|
-|`70.cpp`|[Climb Stairs](https:/leetcode.com/problems/climb-stairs/)|DP -> Memoization -> Tabulation|Easy|
+|`70.cpp`|[Climb Stairs](https:/leetcode.com/problems/climb-stairs/)|DP + Memoization -> Tabulation|Easy|
 
 ## 🛠️ How to Run
 
