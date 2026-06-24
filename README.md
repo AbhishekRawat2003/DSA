@@ -128,7 +128,7 @@ dsa/
 |`Fibonnnacci_1.cpp`|Fibonnacci Series| DP + Memoization -> Tabulation | Easy|
 |`70.cpp`|[Climb Stairs](https:/leetcode.com/problems/climb-stairs/)|DP + Memoization -> Tabulation|Easy|
 |`403.cpp`|[Frog jump](https://leetcode.com/problems/frog-jump/)|Recursion -> DP + Memoization -> Tabulation|Hard|
-|`Frog Jump`|[Frog Jump with height](https://www.naukri.com/code360/problems/frog-jump_3621012)|Recursion -> DP + Memoization -> Tabulation | Medium|
+|`frog-jump`|[Frog Jump with height](https://www.naukri.com/code360/problems/frog-jump_3621012)|Recursion -> DP + Memoization -> Tabulation | Medium|
 
 ## 🛠️ How to Run
 
