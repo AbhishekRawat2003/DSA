@@ -88,7 +88,7 @@ dsa/
 | `findDisappearedNumber.cpp` | [Find Disappeared Numbers](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | Index marking | Easy |
 | `longestConsecutiveNumber.cpp` | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | HashSet | Medium |
 | `sortArray.cpp` | [Sort Colors](https://leetcode.com/problems/sort-colors/) | Dutch National Flag | Medium |
-
+|`3737.cpp`|[Count Subarrays With Majority Element I](https://leetcode.com/problems/count-subarrays-with-majority-element-i/)|Hash Table + Divide and Conquer + Segment Tree + Merge Sort + Counting + Prefix Sum|Medium|
 ---
 
 ### 🔤 Strings (`Strings/`)
