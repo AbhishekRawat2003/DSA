@@ -49,8 +49,8 @@ using namespace std;
 // };
 
 // Tabulation
-// Time: O()
-// Space: O()
+// Time: O(m*n)
+// Space: O(m*n)
 class Solution {
 public:
   int f(int i, int j, vector<vector<int>> &dp) {
