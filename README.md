@@ -175,6 +175,7 @@ dsa/
 |`403.cpp`|[Frog jump](https://leetcode.com/problems/frog-jump/)|Recursion -> DP + Memoization -> Tabulation|Hard|
 |`frog-jump`|[Frog Jump with height](https://www.naukri.com/code360/problems/frog-jump_3621012)|Recursion -> DP + Memoization -> Tabulation | Medium |
 |`uniquePath.cpp`|[Unique Path](https://www.naukri.com/code360/problems/unique-paths_1081470)|Recursion -> Memoization -> Tabulation |
+|`198.cpp`|[House Robber](https://www.leetcode.com/problems/house-robbers/)|DP| Medium |
 
 ## 🛠️ How to Run
 
