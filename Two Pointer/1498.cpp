@@ -1,22 +1,32 @@
 // 1498. Number of Subsequences That Satisfy the Given Sum Condition
 
+#include <algorithm>
+#include <cmath>
 #include <iostream>
 #include <vector>
 using namespace std;
 
 class Solution {
 public:
+  int mod = 1e9 + 7;
   int numSubseq(vector<int> &nums, int target) {
     int count = 0;
+    int n = nums.size();
+    sort(nums.begin(), nums.end());
     int left = 0;
-    int right = nums.size() - 1;
+    int right = n - 1;
+    vector<int> power(n);
+    power[0] = 1;
+    for (int i = 1; i < n; i++) {
+      power[i] = (2 * power[i - 1]) % mod;
+    }
     while (left <= right) {
-      int sum = nums[left] + nums[right];
-      cout << "sum: " << sum << endl;
       if (nums[left] + nums[right] <= target) {
-        count++;
+        count = (count + power[right - left]) % mod;
+        left++;
+      } else {
+        right--;
       }
-      right--;
     }
     return count;
   }
