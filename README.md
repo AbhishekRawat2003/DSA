@@ -81,6 +81,7 @@ dsa/
 | File | Problem | Approach | Difficulty |
 |------|---------|----------|------------|
 |`1732.cpp`|[Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)|Prefix Sum| Hard |
+|`3756.cpp`|[Concatenate Non-Zero Digits and Multiply by Sum II](https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-ii/)|Prefix Sum + String + Math| Medium |
 
 ---
 
