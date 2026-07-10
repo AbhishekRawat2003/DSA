@@ -178,6 +178,13 @@ dsa/
 |`uniquePath.cpp`|[Unique Path](https://www.naukri.com/code360/problems/unique-paths_1081470)|Recursion -> Memoization -> Tabulation |
 |`198.cpp`|[House Robber](https://www.leetcode.com/problems/house-robbers/)|DP| Medium |
 
+---
+### ⚡ Graph (`Graph/`)
+
+| File | Problem | Approach | Difficulty |
+|------|---------|----------|------------|
+|`3532.cpp`|[Path Existence Queries in a Graph I ](https://leetcode.com/problems/path-existence-queries-in-a-graph-i/)|Array+ Prefix Sum| Medium |
+|`3534.cpp`|[Path Existence Queries in a Graph II](https://leetcode.com/problems/path-existence-queries-in-a-graph-ii/)|Array + Prefix Sum| Hard |
 ## 🛠️ How to Run
 
 ```bash
@@ -200,8 +207,8 @@ g++ -O2 -std=c++17 -o out binary-search/410.cpp && ./out
 - [x] Sorting (Dutch National Flag, Merge Sort concepts)
 - [x] Backtracking (Permutations)
 - [x] Greedy
-- [ ] Dynamic Programming *(coming soon)*
-- [ ] Graphs *(coming soon)*
+- [x] Dynamic Programming 
+- [x] Graphs
 - [ ] Trees *(coming soon)*
 
 ---
