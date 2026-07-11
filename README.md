@@ -142,6 +142,7 @@ dsa/
 | `1833.cpp`| [Maximum ice cream bars](https://leetcode.com/problems/maximum-ice-cream-bars/) | Greedy | Medium |
 |`605.cpp`|[Can place flowers](https://leetcode.com/problems/can-place-flowers/)|Greedy + Array| Easy|
 
+
 ---
 
 ### 🏔️ Heap & Sorting (`heap/`)
@@ -185,6 +186,7 @@ dsa/
 |------|---------|----------|------------|
 |`3532.cpp`|[Path Existence Queries in a Graph I ](https://leetcode.com/problems/path-existence-queries-in-a-graph-i/)|Array+ Prefix Sum| Medium |
 |`3534.cpp`|[Path Existence Queries in a Graph II](https://leetcode.com/problems/path-existence-queries-in-a-graph-ii/)|Array + Prefix Sum| Hard |
+|`2685.cpp`|[Count the Number of Complete Components](https://leetcode.com/problems/count-the-number-of-complete-components/)| DFS | Medium |
 ## 🛠️ How to Run
 
 ```bash
