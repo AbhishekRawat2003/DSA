@@ -102,7 +102,7 @@ dsa/
 |`3739.cpp`|[Count Subarrays With Majority Element II](https://leetcode.com/problems/count-subarrays-with-majority-element-ii/)| Segment Tree + Merge Sort + Counting + Prefix Sum|Hard|
 |`3020.cpp`|[. Find the Maximum Number of Elements in Subset](https://leetcode.com/problems/find-the-maximum-number-of-elements-in-subset/)|Array+ Hash Table + Enumeration| Medium |
 |`1431.cpp`|[Kids with greatest Number of candies](https://leetcode.com/problems/kids-with-greatest-number-of-candies/)|Array|Easy|
-
+|`1331.cpp`|[Rank transform of an array](https://leetcode.com/problems/rank-transform-of-an-array/)|Array + Hash table| Easy |
 ---
 
 ### 📦 Linked List (`Linked-List/`)
