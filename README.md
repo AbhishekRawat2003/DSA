@@ -178,7 +178,7 @@ dsa/
 |`frog-jump`|[Frog Jump with height](https://www.naukri.com/code360/problems/frog-jump_3621012)|Recursion -> DP + Memoization -> Tabulation | Medium |
 |`uniquePath.cpp`|[Unique Path](https://www.naukri.com/code360/problems/unique-paths_1081470)|Recursion -> Memoization -> Tabulation |
 |`198.cpp`|[House Robber](https://www.leetcode.com/problems/house-robbers/)|DP| Medium |
-
+|`3336.cpp`|[Find the Number of Subsequences With Equal GCD](https://leetcode.com/problems/find-the-number-of-subsequences-with-equal-gcd/)| DP + GCD + Array | Hard |
 ---
 ### ⚡ Graph (`Graph/`)
 
