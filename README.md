@@ -132,7 +132,8 @@ dsa/
 |------|---------|----------|------------|
 | `371.cpp`| [Sum of Two Integer](https://leetcode.com/problems/sum-of-two-integers/) | Bit Manupilation | Medium |
 |`1840.cpp`| [Maximum Building Height](https://leetcode.com/problems/maximum-building-height/)|Array + sorting|Hard|
-
+|`1291.cpp`|[Sequential Digits[]()|||](https://leetcode.com/problems/sequential-digits/)| Enumeration | Medium |
+|`3658.cpp`|[GCD of Odd and Even Sums](https://leetcode.com/problems/gcd-of-odd-and-even-sums/)|Math|Easy|
 ---
 
 ### Greedy (`Greedy/`)
