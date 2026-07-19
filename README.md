@@ -74,6 +74,7 @@ dsa/
 |`986.cpp`| [Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/) | Two Pointer | Medium |
 |`948.cpp`|[Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/)|Two Pointer + Greedy| Medium|
 |`1768.cpp`|[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/)|Two pointer + String| Easy |
+|`3867.cpp`|[Sum of GCD of Formed Pairs](https://leetcode.com/problems/sum-of-gcd-of-formed-pairs/)|Simulation + Math| Medium |
 
 ---
 
@@ -103,6 +104,9 @@ dsa/
 |`3020.cpp`|[. Find the Maximum Number of Elements in Subset](https://leetcode.com/problems/find-the-maximum-number-of-elements-in-subset/)|Array+ Hash Table + Enumeration| Medium |
 |`1431.cpp`|[Kids with greatest Number of candies](https://leetcode.com/problems/kids-with-greatest-number-of-candies/)|Array|Easy|
 |`1331.cpp`|[Rank transform of an array](https://leetcode.com/problems/rank-transform-of-an-array/)|Array + Hash table| Easy |
+|`3312.cpp`|[ Sorted GCD Pair Queries](https://leetcode.com/problems/sorted-gcd-pair-queries/)|
+Hash Table + Binary Search + Combinatorics + Counting + Number Theory + Prefix Sum| Hard |
+
 ---
 
 ### 📦 Linked List (`Linked-List/`)
@@ -124,6 +128,9 @@ dsa/
 |`1189.cpp`|[Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/)|Hash Table + counting| Easy |
 |`1071.cpp`|[greatest common divisor of strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/)|string|Easy|
 |`1967.cpp`|[Number of strings that appear as substrings in word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/)|  string | Easy |
+|`151.cpp`|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)|Two Pointer| Medium |
+|`1081.cpp`|[Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/)|
+Stack + Greedy + Monotonic Stack| Medium |
 
 ---
 
@@ -180,6 +187,8 @@ dsa/
 |`uniquePath.cpp`|[Unique Path](https://www.naukri.com/code360/problems/unique-paths_1081470)|Recursion -> Memoization -> Tabulation |
 |`198.cpp`|[House Robber](https://www.leetcode.com/problems/house-robbers/)|DP| Medium |
 |`3336.cpp`|[Find the Number of Subsequences With Equal GCD](https://leetcode.com/problems/find-the-number-of-subsequences-with-equal-gcd/)| DP + GCD + Array | Hard |
+|`42.cpp`|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|Array
+Two Pointers + Stack + Monotonic Stack| Hard |
 ---
 ### ⚡ Graph (`Graph/`)
 

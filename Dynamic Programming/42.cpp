@@ -103,13 +103,11 @@ using namespace std;
 //             int leftMax = 0;
 //             int rightMax = 0;
 
-
 //             // find left maximum
 //             for(int j=0;j<=i;j++)
 //             {
 //                 leftMax = max(leftMax,height[j]);
 //             }
-
 
 //             // find right maximum
 //             for(int j=i;j<n;j++)
@@ -117,74 +115,53 @@ using namespace std;
 //                 rightMax = max(rightMax,height[j]);
 //             }
 
-
 //             water += min(leftMax,rightMax)-height[i];
 //         }
-
 
 //         return water;
 //     }
 // };
+
+//=========================== DP =========================
 class Solution
 {
-    // DP (Prefix+suffix)
 public:
-    int trap(vector<int> &height)
+    int trap(vector<int> &heights)
     {
-        int n = height.size();
+        int n = heights.size();
+        vector<int> left(n);
+        vector<int> right(n);
+        left[0] = heights[0];
+
+        for (int i = 1; i < n; i++)
+        {
+            left[i] = max(left[i - 1], heights[i]);
+        }
+
+        right[n - 1] = heights[n - 1];
+
+        for (int i = n - 2; i >= 0; i--)
+        {
+            right[i] = max(right[i + 1], heights[i]);
+        }
+        cout << "Left heights: ";
+        for (auto val : left)
+        {
+            cout << val << " ";
+        }
+
+        cout << endl
+             << "Right heights: ";
+        for (auto val : right)
+        {
+            cout << val << " ";
+        }
+        cout << endl;
         int water = 0;
 
         for (int i = 0; i < n; i++)
         {
-            int leftMax = 0;
-            int rightMax = 0;
-
-            // find left maximum
-            for (int j = 0; j <= i; j++)
-            {
-                leftMax = max(leftMax, height[j]);
-            }
-
-            // find right maximum
-            for (int j = i; j < n; j++)
-            {
-                rightMax = max(rightMax, height[j]);
-            }class Solution {
-public:
-    int trap(vector<int>& height) {
-
-        int n = height.size();
-        int water = 0;
-
-        for(int i=0;i<n;i++)
-        {
-            int leftMax = 0;
-            int rightMax = 0;
-
-
-            // find left maximum
-            for(int j=0;j<=i;j++)
-            {
-                leftMax = max(leftMax,height[j]);
-            }
-
-
-            // find right maximum
-            for(int j=i;j<n;j++)
-            {
-                rightMax = max(rightMax,height[j]);
-            }
-
-
-            water += min(leftMax,rightMax)-height[i];
-        }
-
-
-        return water;
-    }
-};
-
-            water += min(leftMax, rightMax) - height[i];
+            water += min(left[i], right[i]) - heights[i];
         }
 
         return water;
