@@ -129,8 +129,7 @@ Hash Table + Binary Search + Combinatorics + Counting + Number Theory + Prefix S
 |`1071.cpp`|[greatest common divisor of strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/)|string|Easy|
 |`1967.cpp`|[Number of strings that appear as substrings in word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/)|  string | Easy |
 |`151.cpp`|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)|Two Pointer| Medium |
-|`1081.cpp`|[Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/)|
-Stack + Greedy + Monotonic Stack| Medium |
+|`1081.cpp`|[Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/)|Stack + Greedy + Monotonic Stack| Medium |
 
 ---
 
