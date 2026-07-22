@@ -131,6 +131,7 @@ Hash Table + Binary Search + Combinatorics + Counting + Number Theory + Prefix S
 |`151.cpp`|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)|Two Pointer| Medium |
 |`1081.cpp`|[Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/)|Stack + Greedy + Monotonic Stack| Medium |
 |`3499.cpp`|[Maximize Active Section with Trade I](https://leetcode.com/problems/maximize-active-section-with-trade-i/description/?envType=daily-question&envId=2026-07-21)| Enumeration | Medium |
+|`3501.cpp`|[Maximize Active Section with Trade II](https://leetcode.com/problems/maximize-active-section-with-trade-ii/)|Segmented tree + Binary Search + prefix Sum| Hard |
 
 ---
 
@@ -204,6 +205,12 @@ Two Pointers + Stack + Monotonic Stack| Hard |
 | File | Problem | Approach | Difficulty |
 |------|---------|----------|------------|
 |`1260.cpp`|[Shift 2D grid](https://leetcode.com/problems/shift-2d-grid/)|Array + Simulation |Easy|
+
+### Tree (`Tree/`)
+| File | Problem | Approach | Difficulty |
+|------|---------|----------|------------|
+|`3501.cpp`|[Maximize Active Section with Trade II](https://leetcode.com/problems/maximize-active-section-with-trade-ii/)|Segmented tree + Binary Search + prefix Sum| Hard |
+
 
 ---
 ## 🛠️ How to Run
