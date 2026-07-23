@@ -211,7 +211,10 @@ Two Pointers + Stack + Monotonic Stack| Hard |
 |------|---------|----------|------------|
 |`3501.cpp`|[Maximize Active Section with Trade II](https://leetcode.com/problems/maximize-active-section-with-trade-ii/)|Segmented tree + Binary Search + prefix Sum| Hard |
 
-
+### Bit Manipulation (`Bit Manipulation`)
+| File | Problem | Approach | Difficulty |
+|------|---------|----------|------------|
+|`3513.cpp`|[Number of Unique XOR Triplets I](https://leetcode.com/problems/number-of-unique-xor-triplets-i/)|Bit Manipulation + Math| Medium |
 ---
 ## 🛠️ How to Run
 
