@@ -75,7 +75,7 @@ dsa/
 |`948.cpp`|[Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/)|Two Pointer + Greedy| Medium|
 |`1768.cpp`|[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/)|Two pointer + String| Easy |
 |`3867.cpp`|[Sum of GCD of Formed Pairs](https://leetcode.com/problems/sum-of-gcd-of-formed-pairs/)|Simulation + Math| Medium |
-
+|`443.cpp`|[string Compression](https://leetcode.com/problems/string-compression/)|Sorting| Easy |
 ---
 
 ### 📦 Prefix (`Prefix/`)
@@ -142,6 +142,7 @@ Hash Table + Binary Search + Combinatorics + Counting + Number Theory + Prefix S
 |`1840.cpp`| [Maximum Building Height](https://leetcode.com/problems/maximum-building-height/)|Array + sorting|Hard|
 |`1291.cpp`|[Sequential Digits](https://leetcode.com/problems/sequential-digits/)| Enumeration | Medium |
 |`3658.cpp`|[GCD of Odd and Even Sums](https://leetcode.com/problems/gcd-of-odd-and-even-sums/)|Math|Easy|
+|`3536.cpp`|[Maximum Product of Two Digits](https://leetcode.com/problems/maximum-products-of-two-digits/)|Sorting |Easy|
 ---
 
 ### Greedy (`Greedy/`)
@@ -150,6 +151,7 @@ Hash Table + Binary Search + Combinatorics + Counting + Number Theory + Prefix S
 |------|---------|----------|------------|
 | `1833.cpp`| [Maximum ice cream bars](https://leetcode.com/problems/maximum-ice-cream-bars/) | Greedy | Medium |
 |`605.cpp`|[Can place flowers](https://leetcode.com/problems/can-place-flowers/)|Greedy + Array| Easy|
+|`334.cpp`|[Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplets-subsequence/)|Medium| Array + Greedy|
 
 
 ---
