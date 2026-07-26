@@ -76,6 +76,8 @@ dsa/
 |`1768.cpp`|[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/)|Two pointer + String| Easy |
 |`3867.cpp`|[Sum of GCD of Formed Pairs](https://leetcode.com/problems/sum-of-gcd-of-formed-pairs/)|Simulation + Math| Medium |
 |`443.cpp`|[string Compression](https://leetcode.com/problems/string-compression/)|Sorting| Easy |
+|`392.cpp`|[Is Subsequence](https://leetcode.com/problems/is-subsequence/)|String + Dynamic Programming|Easy|
+|`1679.cpp`|[Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/)|Array + Hash Table |Medium|
 ---
 
 ### 📦 Prefix (`Prefix/`)
@@ -143,6 +145,7 @@ Hash Table + Binary Search + Combinatorics + Counting + Number Theory + Prefix S
 |`1291.cpp`|[Sequential Digits](https://leetcode.com/problems/sequential-digits/)| Enumeration | Medium |
 |`3658.cpp`|[GCD of Odd and Even Sums](https://leetcode.com/problems/gcd-of-odd-and-even-sums/)|Math|Easy|
 |`3536.cpp`|[Maximum Product of Two Digits](https://leetcode.com/problems/maximum-products-of-two-digits/)|Sorting |Easy|
+|`628.cpp`|[ Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)| Math |Easy|
 ---
 
 ### Greedy (`Greedy/`)
