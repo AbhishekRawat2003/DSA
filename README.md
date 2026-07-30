@@ -1,26 +1,106 @@
-# DSA Practice — Abhishek Rawat
+<div align="center">
 
-A structured collection of Data Structures & Algorithms solutions in **C++**, organized by topic. Problems are primarily from LeetCode and GFG.
+# 🚀 DSA Problem-Solving Portfolio
 
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-31-blue?style=flat-square)
-![Topics](https://img.shields.io/badge/Topics-7-green?style=flat-square)
-![Language](https://img.shields.io/badge/Language-C%2B%2B17-orange?style=flat-square)
+### C++ solutions to LeetCode, GeeksforGeeks, and Code360 problems
+
+<p>
+  A structured repository documenting my progress in <b>Data Structures and Algorithms</b>,
+  with emphasis on clean implementation, pattern recognition, complexity analysis, and interview preparation.
+</p>
+
+[![C++](https://img.shields.io/badge/Language-C%2B%2B17-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Problem%20Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/YOUR_LEETCODE_USERNAME/)
+[![DSA](https://img.shields.io/badge/Focus-Data%20Structures%20%26%20Algorithms-7B2CBF?style=for-the-badge)](#-topics-covered)
+[![Status](https://img.shields.io/badge/Status-Actively%20Maintained-22C55E?style=for-the-badge)](#-learning-roadmap)
+
+[LeetCode Profile](https://leetcode.com/u/abhishekrawat2003/) •
+[LinkedIn](https://linkedin.com/in/Abhishekrawat2003) •
+[Report an Issue](../../issues)
+
+</div>
 
 ---
 
-## 📁 Repository Structure
+## 👨‍💻 About This Repository
 
-```
+This repository is my organised DSA practice archive. Each solution focuses on one or more of the following:
+
+- Selecting an appropriate algorithmic pattern
+- Writing readable and maintainable C++17 code
+- Improving time and space complexity
+- Comparing brute-force, improved, and optimal approaches
+- Building consistency for coding interviews and competitive programming
+
+The collection currently covers problems from **LeetCode**, **GeeksforGeeks**, and **Code360**.
+
+---
+
+## 📂 Repository Structure
+
+```text
 dsa/
-├── sliding-window/     # Fixed & variable window problems
-├── binary-search/      # Classic BS + BS on answer problems
-├── two-pointers/       # Two pointer technique
-├── arrays/             # Array manipulation, hashing, sorting
-├── Strings/            # String problems
-└── heap/               # Priority queue & QuickSelect
+├── arrays/                  # Arrays, hashing, sorting and counting
+├── binary-search/           # Classic binary search and BS on answer
+├── Bit Manipulation/        # XOR, bitwise operations and bit patterns
+├── Dynamic Programming/     # Recursion, memoisation and tabulation
+├── Graph/                   # DFS, components and graph queries
+├── Greedy/                  # Local-choice optimisation problems
+├── heap/                    # Priority queues, heaps and QuickSelect
+├── Linked-List/             # Linked-list traversal and pointer patterns
+├── Math/                    # Formula-based and number-theory problems
+├── Matrix/                  # Two-dimensional array problems
+├── Prefix/                  # Prefix sums and cumulative techniques
+├── Recursion/               # Recursive fundamentals
+├── sliding-window/          # Fixed and variable window patterns
+├── Strings/                 # String processing and monotonic structures
+├── Tree/                    # Tree and segment-tree problems
+└── two-pointers/            # Opposite-direction and same-direction pointers
 ```
 
 ---
+---
+
+## 🧠 Topics Covered
+
+<table>
+<tr>
+<td valign="top" width="33%">
+
+### Core Patterns
+- Arrays
+- Strings
+- Hashing
+- Two Pointers
+- Sliding Window
+- Prefix Sum
+
+</td>
+<td valign="top" width="33%">
+
+### Search & Optimisation
+- Binary Search
+- Binary Search on Answer
+- Sorting
+- Greedy
+- Heap / Priority Queue
+- QuickSelect
+
+</td>
+<td valign="top" width="33%">
+
+### Advanced Topics
+- Recursion
+- Backtracking
+- Dynamic Programming
+- Graphs
+- Trees
+- Bit Manipulation
+- Number Theory
+
+</td>
+</tr>
+</table>
 
 ## 📊 Problems Solved
 
@@ -106,8 +186,7 @@ dsa/
 |`3020.cpp`|[. Find the Maximum Number of Elements in Subset](https://leetcode.com/problems/find-the-maximum-number-of-elements-in-subset/)|Array+ Hash Table + Enumeration| Medium |
 |`1431.cpp`|[Kids with greatest Number of candies](https://leetcode.com/problems/kids-with-greatest-number-of-candies/)|Array|Easy|
 |`1331.cpp`|[Rank transform of an array](https://leetcode.com/problems/rank-transform-of-an-array/)|Array + Hash table| Easy |
-|`3312.cpp`|[ Sorted GCD Pair Queries](https://leetcode.com/problems/sorted-gcd-pair-queries/)|
-Hash Table + Binary Search + Combinatorics + Counting + Number Theory + Prefix Sum| Hard |
+|`3312.cpp`|[ Sorted GCD Pair Queries](https://leetcode.com/problems/sorted-gcd-pair-queries/)| Hash Table + Binary Search + Combinatorics + Counting + Number Theory + Prefix Sum| Hard |
 
 ---
 
@@ -134,10 +213,8 @@ Hash Table + Binary Search + Combinatorics + Counting + Number Theory + Prefix S
 |`1081.cpp`|[Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/)|Stack + Greedy + Monotonic Stack| Medium |
 |`3499.cpp`|[Maximize Active Section with Trade I](https://leetcode.com/problems/maximize-active-section-with-trade-i/description/?envType=daily-question&envId=2026-07-21)| Enumeration | Medium |
 |`3501.cpp`|[Maximize Active Section with Trade II](https://leetcode.com/problems/maximize-active-section-with-trade-ii/)|Segmented tree + Binary Search + prefix Sum| Hard |
-|`3517.cpp`|[Smallest Palindromic Rearrangement I](https://leetcode.com/problems/smallest-palindromic-rearrangement-i/)|Sorting + 
-Counting Sort|Medium|
-|`3518.cpp`|[Smallest Palindromic Rearrangement II](https://leetcode.com/problems/smallest-palindromic-rearrangement-ii/)|
-Hash Table + Math + Combinatorics + Counting| Hard |
+|`3517.cpp`|[Smallest Palindromic Rearrangement I](https://leetcode.com/problems/smallest-palindromic-rearrangement-i/)|Sorting + Counting Sort|Medium|
+|`3518.cpp`|[Smallest Palindromic Rearrangement II](https://leetcode.com/problems/smallest-palindromic-rearrangement-ii/)| Hash Table + Math + Combinatorics + Counting| Hard |
 
 ---
 
@@ -199,8 +276,7 @@ Hash Table + Math + Combinatorics + Counting| Hard |
 |`uniquePath.cpp`|[Unique Path](https://www.naukri.com/code360/problems/unique-paths_1081470)|Recursion -> Memoization -> Tabulation |
 |`198.cpp`|[House Robber](https://www.leetcode.com/problems/house-robbers/)|DP| Medium |
 |`3336.cpp`|[Find the Number of Subsequences With Equal GCD](https://leetcode.com/problems/find-the-number-of-subsequences-with-equal-gcd/)| DP + GCD + Array | Hard |
-|`42.cpp`|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|Array
-Two Pointers + Stack + Monotonic Stack| Hard |
+|`42.cpp`|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|Array + Two Pointers + Stack + Monotonic Stack| Hard |
 ---
 ### ⚡ Graph (`Graph/`)
 
@@ -239,26 +315,57 @@ g++ -O2 -std=c++17 -o out binary-search/410.cpp && ./out
 
 ---
 
-## 📈 Topics Covered
+## 🗺️ Learning Roadmap
 
-- [x] Sliding Window (Fixed & Variable)
-- [x] Binary Search (Classic + BS on Answer)
-- [x] Two Pointers
-- [x] Hashing (HashMap / HashSet)
-- [x] Heap / Priority Queue
-- [x] Sorting (Dutch National Flag, Merge Sort concepts)
-- [x] Backtracking (Permutations)
-- [x] Greedy
-- [x] Dynamic Programming 
-- [x] Graphs
-- [ ] Trees *(coming soon)*
+- [x] Arrays and hashing
+- [x] Two pointers
+- [x] Sliding window
+- [x] Binary search
+- [x] Binary search on answer
+- [x] Stack and monotonic stack
+- [x] Heap and priority queue
+- [x] Greedy algorithms
+- [x] Recursion and backtracking
+- [x] Dynamic programming fundamentals
+- [x] Graph traversal
+- [ ] Trees and binary search trees
+- [ ] Tries
+- [ ] Disjoint Set Union
+- [ ] Advanced graph algorithms
+- [ ] Advanced dynamic programming patterns
+
+---
+
+## 🤝 Contribution Guidelines
+
+Suggestions and improvements are welcome.
+
+1. Fork the repository.
+2. Create a feature branch.
+3. Add or improve a solution.
+4. Include the approach and complexity analysis.
+5. Open a pull request with a clear description.
 
 ---
 
 ## 👤 Author
 
-**Abhishek Rawat** — Backend Developer | Python & Django | C++ DSA  
-📧 abhirawathdr@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/Abhishekrawat2003)
+### Abhishek Rawat
 
-> *"Consistency beats intensity when building skills."*
+**Backend Developer | Python & Django | C++ DSA**
+
+- Email: [abhirawathdr@gmail.com](mailto:abhirawathdr@gmail.com)
+- LinkedIn: [linkedin.com/in/Abhishekrawat2003](https://linkedin.com/in/Abhishekrawat2003)
+- LeetCode: [Add your LeetCode profile](https://leetcode.com/u/abhishekrawat2003)
+
+---
+
+<div align="center">
+
+### ⭐ Support the repository
+
+If this repository helps you, consider giving it a star.
+
+> “Consistency beats intensity when building skills.”
+
+</div>
