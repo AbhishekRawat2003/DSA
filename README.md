@@ -134,6 +134,10 @@ Hash Table + Binary Search + Combinatorics + Counting + Number Theory + Prefix S
 |`1081.cpp`|[Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/)|Stack + Greedy + Monotonic Stack| Medium |
 |`3499.cpp`|[Maximize Active Section with Trade I](https://leetcode.com/problems/maximize-active-section-with-trade-i/description/?envType=daily-question&envId=2026-07-21)| Enumeration | Medium |
 |`3501.cpp`|[Maximize Active Section with Trade II](https://leetcode.com/problems/maximize-active-section-with-trade-ii/)|Segmented tree + Binary Search + prefix Sum| Hard |
+|`3517.cpp`|[Smallest Palindromic Rearrangement I](https://leetcode.com/problems/smallest-palindromic-rearrangement-i/)|Sorting + 
+Counting Sort|Medium|
+|`3518.cpp`|[Smallest Palindromic Rearrangement II](https://leetcode.com/problems/smallest-palindromic-rearrangement-ii/)|
+Hash Table + Math + Combinatorics + Counting| Hard |
 
 ---
 
@@ -146,6 +150,8 @@ Hash Table + Binary Search + Combinatorics + Counting + Number Theory + Prefix S
 |`3658.cpp`|[GCD of Odd and Even Sums](https://leetcode.com/problems/gcd-of-odd-and-even-sums/)|Math|Easy|
 |`3536.cpp`|[Maximum Product of Two Digits](https://leetcode.com/problems/maximum-products-of-two-digits/)|Sorting |Easy|
 |`628.cpp`|[ Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)| Math |Easy|
+|`1464.cpp`|[Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/)|Queue + Math| Easy|
+|`3014.cpp`|[Minimum Number of Pushes to Type Word I](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i/)|String + Greedy| Easy |
 ---
 
 ### Greedy (`Greedy/`)
