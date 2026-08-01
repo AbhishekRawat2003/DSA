@@ -278,6 +278,7 @@ dsa/
 |`198.cpp`|[House Robber](https://www.leetcode.com/problems/house-robbers/)|DP| Medium |
 |`3336.cpp`|[Find the Number of Subsequences With Equal GCD](https://leetcode.com/problems/find-the-number-of-subsequences-with-equal-gcd/)| DP + GCD + Array | Hard |
 |`42.cpp`|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|Array + Two Pointers + Stack + Monotonic Stack| Hard |
+|`486.cpp`|[Predict the Winner](https://leetcode.com/problems/predict-the-winner/)| Recursion + Memoization| Medium|
 ---
 ### ⚡ Graph (`Graph/`)
 
