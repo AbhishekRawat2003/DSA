@@ -187,6 +187,7 @@ dsa/
 |`1431.cpp`|[Kids with greatest Number of candies](https://leetcode.com/problems/kids-with-greatest-number-of-candies/)|Array|Easy|
 |`1331.cpp`|[Rank transform of an array](https://leetcode.com/problems/rank-transform-of-an-array/)|Array + Hash table| Easy |
 |`3312.cpp`|[ Sorted GCD Pair Queries](https://leetcode.com/problems/sorted-gcd-pair-queries/)| Hash Table + Binary Search + Combinatorics + Counting + Number Theory + Prefix Sum| Hard |
+|`383.cpp`|[Ransome Note](https://leetcode.com/problems/ransom-note/)| String + Counting | Easy |
 
 ---
 
@@ -195,6 +196,7 @@ dsa/
 | File | Problem | Approach | Difficulty |
 |------|---------|----------|------------|
 |`2095.cpp`|[Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/description/)|Two Pointer + lazy and fast Pointer| Medium |
+|`83.cpp`|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|Linked List| Easy |
 
 ---
 
@@ -279,6 +281,8 @@ dsa/
 |`3336.cpp`|[Find the Number of Subsequences With Equal GCD](https://leetcode.com/problems/find-the-number-of-subsequences-with-equal-gcd/)| DP + GCD + Array | Hard |
 |`42.cpp`|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|Array + Two Pointers + Stack + Monotonic Stack| Hard |
 |`486.cpp`|[Predict the Winner](https://leetcode.com/problems/predict-the-winner/)| Recursion + Memoization| Medium|
+|`877.cpp`|[Stone Game](https://leetcode.com/problems/stone-game/)|DP + MinMax| Medium |
+|`1406.cpp`|[Stone Game III](https://leetcode.com/problems/stone-game-iii/)|DP + MinMax| Hard |
 ---
 ### ⚡ Graph (`Graph/`)
 
