@@ -188,7 +188,7 @@ dsa/
 |`1331.cpp`|[Rank transform of an array](https://leetcode.com/problems/rank-transform-of-an-array/)|Array + Hash table| Easy |
 |`3312.cpp`|[ Sorted GCD Pair Queries](https://leetcode.com/problems/sorted-gcd-pair-queries/)| Hash Table + Binary Search + Combinatorics + Counting + Number Theory + Prefix Sum| Hard |
 |`383.cpp`|[Ransome Note](https://leetcode.com/problems/ransom-note/)| String + Counting | Easy |
-
+|`3731.cpp`|[Find Missing Elements](https://leetcode.com/problems/find-missing-elements/)|Hash Table + sorting| Easy|
 ---
 
 ### 📦 Linked List (`Linked-List/`)
@@ -197,7 +197,7 @@ dsa/
 |------|---------|----------|------------|
 |`2095.cpp`|[Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/description/)|Two Pointer + lazy and fast Pointer| Medium |
 |`83.cpp`|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|Linked List| Easy |
-
+|`94.cpp`|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/)|BST| Easy|
 ---
 
 ### 🔤 Strings (`Strings/`)
