@@ -291,7 +291,7 @@ dsa/
 |`3532.cpp`|[Path Existence Queries in a Graph I ](https://leetcode.com/problems/path-existence-queries-in-a-graph-i/)|Array+ Prefix Sum| Medium |
 |`3534.cpp`|[Path Existence Queries in a Graph II](https://leetcode.com/problems/path-existence-queries-in-a-graph-ii/)|Array + Prefix Sum| Hard |
 |`2685.cpp`|[Count the Number of Complete Components](https://leetcode.com/problems/count-the-number-of-complete-components/)| DFS | Medium |
-
+|`3310.cpp`|[Remove Methods From Project](https://leetcode.com/problems/remove-methods-from-project/)| BFS + DFS | Medium|
 
 ### Matrix (`Matrix/`)
 
