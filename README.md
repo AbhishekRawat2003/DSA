@@ -231,7 +231,9 @@ dsa/
 |`628.cpp`|[ Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)| Math |Easy|
 |`1464.cpp`|[Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/)|Queue + Math| Easy|
 |`3014.cpp`|[Minimum Number of Pushes to Type Word I](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i/)|String + Greedy| Easy |
-|`3016.cpp`|[Minimum Number of Pushes to Type Word II](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/)| Hash Table + Greedy + Sorting |Medium|
+|`3016.cpp`|[Minimum Number of Pushes to Type Word II](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/)| Hash Table + Greedy + Sorting |Medium|\
+|`3345.cpp`|[Smallest Divisible Digit Product I](https://leetcode.com/problems/smallest-divisible-digit-product-i/)|Enumeration |Easy|
+
 ---
 
 ### Greedy (`Greedy/`)
