@@ -217,7 +217,7 @@ dsa/
 |`3501.cpp`|[Maximize Active Section with Trade II](https://leetcode.com/problems/maximize-active-section-with-trade-ii/)|Segmented tree + Binary Search + prefix Sum| Hard |
 |`3517.cpp`|[Smallest Palindromic Rearrangement I](https://leetcode.com/problems/smallest-palindromic-rearrangement-i/)|Sorting + Counting Sort|Medium|
 |`3518.cpp`|[Smallest Palindromic Rearrangement II](https://leetcode.com/problems/smallest-palindromic-rearrangement-ii/)| Hash Table + Math + Combinatorics + Counting| Hard |
-
+|`3348.cpp`|[Smallest Divisible Digit Product II](https://leetcode.com/problems/smallest-divisible-digit-product-ii/description/)|String + Backtracking + Math + Greedy| Hard |
 ---
 
 ### Maths {Formula based} (`Math/`)
@@ -285,6 +285,10 @@ dsa/
 |`486.cpp`|[Predict the Winner](https://leetcode.com/problems/predict-the-winner/)| Recursion + Memoization| Medium|
 |`877.cpp`|[Stone Game](https://leetcode.com/problems/stone-game/)|DP + MinMax| Medium |
 |`1406.cpp`|[Stone Game III](https://leetcode.com/problems/stone-game-iii/)|DP + MinMax| Hard |
+|`1140.cpp`|[Stone Game II](https://leetcode.com/problems/stone-game-ii/description/)|DP + MinMax + Math| Medium |
+|`TheGreedyJeweller.cpp`|The Greedy Jeweller| DP + Array| Medium |
+
+
 ---
 ### ⚡ Graph (`Graph/`)
 
