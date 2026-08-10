@@ -287,7 +287,7 @@ dsa/
 |`1406.cpp`|[Stone Game III](https://leetcode.com/problems/stone-game-iii/)|DP + MinMax| Hard |
 |`1140.cpp`|[Stone Game II](https://leetcode.com/problems/stone-game-ii/description/)|DP + MinMax + Math| Medium |
 |`TheGreedyJeweller.cpp`|The Greedy Jeweller| DP + Array| Medium |
-
+|`1510.cpp`|[Stone Game IV](https://leetcode.com/problems/stone-game-iv/description/| DP+ Array | Hard|
 
 ---
 ### ⚡ Graph (`Graph/`)
