@@ -116,6 +116,7 @@ dsa/
 | `1343.cpp` | [Number of Sub-arrays of Size K and Average ≥ Threshold](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Fixed window | Medium |
 | `1358.cpp` | [Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/) | Variable window | Medium |
 | `1456.cpp` | [Max Vowels in Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | Fixed window | Medium |
+|`2958.cpp`|[Length of Longest Subarray With at Most K Frequency](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/description/)|Array + Hash Table + Sliding Window |Medium|
 
 ---
 
@@ -189,6 +190,8 @@ dsa/
 |`3312.cpp`|[ Sorted GCD Pair Queries](https://leetcode.com/problems/sorted-gcd-pair-queries/)| Hash Table + Binary Search + Combinatorics + Counting + Number Theory + Prefix Sum| Hard |
 |`383.cpp`|[Ransome Note](https://leetcode.com/problems/ransom-note/)| String + Counting | Easy |
 |`3731.cpp`|[Find Missing Elements](https://leetcode.com/problems/find-missing-elements/)|Hash Table + sorting| Easy|
+|`2996.cpp`|[Smallest Missing Integer Greater Than Sequential Prefix Sum](https://leetcode.com/problems/smallest-missing-integer-greater-than-sequential-prefix-sum/description/)|Array + Hash Table| Easy |
+
 ---
 
 ### 📦 Linked List (`Linked-List/`)
