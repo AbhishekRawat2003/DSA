@@ -117,7 +117,7 @@ dsa/
 | `1358.cpp` | [Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/) | Variable window | Medium |
 | `1456.cpp` | [Max Vowels in Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | Fixed window | Medium |
 |`2958.cpp`|[Length of Longest Subarray With at Most K Frequency](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/description/)|Array + Hash Table + Sliding Window |Medium|
-
+|`3090.cpp`|[Maximum Length Substring With Two Occurrences](https://leetcode.com/problems/maximum-length-substring-with-two-occurrences/description/)|Array + Hash Table + string|Easy|
 ---
 
 ### 🔍 Binary Search (`binary-search/`)
