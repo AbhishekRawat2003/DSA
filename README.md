@@ -191,7 +191,7 @@ dsa/
 |`383.cpp`|[Ransome Note](https://leetcode.com/problems/ransom-note/)| String + Counting | Easy |
 |`3731.cpp`|[Find Missing Elements](https://leetcode.com/problems/find-missing-elements/)|Hash Table + sorting| Easy|
 |`2996.cpp`|[Smallest Missing Integer Greater Than Sequential Prefix Sum](https://leetcode.com/problems/smallest-missing-integer-greater-than-sequential-prefix-sum/description/)|Array + Hash Table| Easy |
-
+|`3471.cpp`|[ Find the Largest Almost Missing Integer](https://leetcode.com/problems/find-the-largest-almost-missing-integer/description/)| Unordered Map|Easy|
 ---
 
 ### 📦 Linked List (`Linked-List/`)
@@ -290,8 +290,8 @@ dsa/
 |`1406.cpp`|[Stone Game III](https://leetcode.com/problems/stone-game-iii/)|DP + MinMax| Hard |
 |`1140.cpp`|[Stone Game II](https://leetcode.com/problems/stone-game-ii/description/)|DP + MinMax + Math| Medium |
 |`TheGreedyJeweller.cpp`|The Greedy Jeweller| DP + Array| Medium |
-|`1510.cpp`|[Stone Game IV](https://leetcode.com/problems/stone-game-iv/description/| DP+ Array | Hard|
-
+|`1510.cpp`|[Stone Game IV](https://leetcode.com/problems/stone-game-iv/description/)| DP+ Array | Hard|
+|`1563.cpp`|[Stone Game V](https://leetcode.com/problems/stone-game-v/description/)|DP |Hard|
 ---
 ### ⚡ Graph (`Graph/`)
 
