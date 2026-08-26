@@ -221,6 +221,7 @@ dsa/
 |`3517.cpp`|[Smallest Palindromic Rearrangement I](https://leetcode.com/problems/smallest-palindromic-rearrangement-i/)|Sorting + Counting Sort|Medium|
 |`3518.cpp`|[Smallest Palindromic Rearrangement II](https://leetcode.com/problems/smallest-palindromic-rearrangement-ii/)| Hash Table + Math + Combinatorics + Counting| Hard |
 |`3348.cpp`|[Smallest Divisible Digit Product II](https://leetcode.com/problems/smallest-divisible-digit-product-ii/description/)|String + Backtracking + Math + Greedy| Hard |
+|`2904.cpp`|[Shortest and Lexicographically Smallest Beautiful String](https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string/description/)| Sliding Window + String | Medium |
 ---
 
 ### Maths {Formula based} (`Math/`)
