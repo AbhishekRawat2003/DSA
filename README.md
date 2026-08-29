@@ -159,6 +159,7 @@ dsa/
 |`443.cpp`|[string Compression](https://leetcode.com/problems/string-compression/)|Sorting| Easy |
 |`392.cpp`|[Is Subsequence](https://leetcode.com/problems/is-subsequence/)|String + Dynamic Programming|Easy|
 |`1679.cpp`|[Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/)|Array + Hash Table |Medium|
+|`3734.cpp`|[Lexicographically Smallest Palindromic Permutation Greater Than Target](https://leetcode.com/problems/lexicographically-smallest-palindromic-permutation-greater-than-target/description/)|String + Two Pointer| Hard |
 ---
 
 ### 📦 Prefix (`Prefix/`)
@@ -222,6 +223,7 @@ dsa/
 |`3518.cpp`|[Smallest Palindromic Rearrangement II](https://leetcode.com/problems/smallest-palindromic-rearrangement-ii/)| Hash Table + Math + Combinatorics + Counting| Hard |
 |`3348.cpp`|[Smallest Divisible Digit Product II](https://leetcode.com/problems/smallest-divisible-digit-product-ii/description/)|String + Backtracking + Math + Greedy| Hard |
 |`2904.cpp`|[Shortest and Lexicographically Smallest Beautiful String](https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string/description/)| Sliding Window + String | Medium |
+|`3720.cpp`|[Lexicographically Smallest Permutation Greater Than Target](https://leetcode.com/problems/lexicographically-smallest-permutation-greater-than-target/description/)|Hash Table + string + Greedy|Medium|
 ---
 
 ### Maths {Formula based} (`Math/`)
@@ -319,6 +321,11 @@ dsa/
 |------|---------|----------|------------|
 |`3513.cpp`|[Number of Unique XOR Triplets I](https://leetcode.com/problems/number-of-unique-xor-triplets-i/)|Bit Manipulation + Math| Medium |
 ---
+
+### Union Find (`Union-Find//`)
+| File | Problem | Approach | Difficulty |
+|------|---------|----------|------------|
+|`2948.cpp`|[Make Lexicographically Smallest Array by Swapping Elements](https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements/description/)|Sorting + Disjoint Set of Union + Array| Medium |
 ## 🛠️ How to Run
 
 ```bash
