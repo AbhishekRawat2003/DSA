@@ -249,6 +249,7 @@ dsa/
 | `1833.cpp`| [Maximum ice cream bars](https://leetcode.com/problems/maximum-ice-cream-bars/) | Greedy | Medium |
 |`605.cpp`|[Can place flowers](https://leetcode.com/problems/can-place-flowers/)|Greedy + Array| Easy|
 |`334.cpp`|[Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplets-subsequence/)|Medium| Array + Greedy|
+|`2091.cpp`|[Removing Minimum and Maximum From Array](https://leetcode.com/problems/removing-minimum-and-maximum-from-array/description/)|Array + Greedy | Medium |
 
 
 ---
