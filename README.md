@@ -193,6 +193,7 @@ dsa/
 |`3731.cpp`|[Find Missing Elements](https://leetcode.com/problems/find-missing-elements/)|Hash Table + sorting| Easy|
 |`2996.cpp`|[Smallest Missing Integer Greater Than Sequential Prefix Sum](https://leetcode.com/problems/smallest-missing-integer-greater-than-sequential-prefix-sum/description/)|Array + Hash Table| Easy |
 |`3471.cpp`|[ Find the Largest Almost Missing Integer](https://leetcode.com/problems/find-the-largest-almost-missing-integer/description/)| Unordered Map|Easy|
+|`4038.cpp`|[. Count Integers Appearing in a Single Block](https://leetcode.com/problems/count-integers-appearing-in-a-single-block/description/)|Array| Easy |
 ---
 
 ### 📦 Linked List (`Linked-List/`)
