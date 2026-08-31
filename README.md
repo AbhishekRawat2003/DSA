@@ -202,6 +202,7 @@ dsa/
 |`2095.cpp`|[Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/description/)|Two Pointer + lazy and fast Pointer| Medium |
 |`83.cpp`|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|Linked List| Easy |
 |`94.cpp`|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/)|BST| Easy|
+|`2058.cpp`|[Find the Minimum and Maximum Number of Nodes Between Critical Points](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/description/)|Linked List + Array | Medium |
 ---
 
 ### 🔤 Strings (`Strings/`)
