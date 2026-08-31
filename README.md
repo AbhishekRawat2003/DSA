@@ -1,5 +1,7 @@
 <div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:7C3AED,100:2563EB&height=200&section=header" />
+
 # 🚀 DSA Problem-Solving Portfolio
 
 ### C++ solutions to LeetCode, GeeksforGeeks, and Code360 problems
@@ -393,5 +395,7 @@ Suggestions and improvements are welcome.
 If this repository helps you, consider giving it a star.
 
 > “Consistency beats intensity when building skills.”
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 
 </div>
