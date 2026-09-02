@@ -325,6 +325,8 @@ dsa/
 | File | Problem | Approach | Difficulty |
 |------|---------|----------|------------|
 |`3513.cpp`|[Number of Unique XOR Triplets I](https://leetcode.com/problems/number-of-unique-xor-triplets-i/)|Bit Manipulation + Math| Medium |
+|`3514.cpp`|[Number of Unique XOR Triplets II](https://leetcode.com/problems/number-of-unique-xor-triplets-ii/description/)|Array + Bit Manipulation + Enumeration | Medium |
+|`3568.cpp`|[Minimum Moves to Clean the Classroom](https://leetcode.com/problems/minimum-moves-to-clean-the-classroom/description/)|BFS + Queue + Bit Manipulation + hash Table + Array + Matrix| Medium |
 ---
 
 ### Union Find (`Union-Find//`)
