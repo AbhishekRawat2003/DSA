@@ -243,7 +243,7 @@ dsa/
 |`3014.cpp`|[Minimum Number of Pushes to Type Word I](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i/)|String + Greedy| Easy |
 |`3016.cpp`|[Minimum Number of Pushes to Type Word II](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/)| Hash Table + Greedy + Sorting |Medium|\
 |`3345.cpp`|[Smallest Divisible Digit Product I](https://leetcode.com/problems/smallest-divisible-digit-product-i/)|Enumeration |Easy|
-
+|`3876.cpp`|[Construct Uniform Parity Array II](https://leetcode.com/problems/construct-uniform-parity-array-ii/description/)|Array + Math| Medium |
 ---
 
 ### Greedy (`Greedy/`)
