@@ -246,6 +246,8 @@ dsa/
 |`3345.cpp`|[Smallest Divisible Digit Product I](https://leetcode.com/problems/smallest-divisible-digit-product-i/)|Enumeration |Easy|
 |`3876.cpp`|[Construct Uniform Parity Array II](https://leetcode.com/problems/construct-uniform-parity-array-ii/description/)|Array + Math| Medium |
 |`3870.cpp`|[Count Commas in Range](https://leetcode.com/problems/count-commas-in-range/description/)| Math | Easy |
+|`3871.cpp`|[Count Commas in Range II](https://leetcode.com/problems/count-commas-in-range-ii/description/)| Math | Medium|
+
 ---
 
 ### Greedy (`Greedy/`)
