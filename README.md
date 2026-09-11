@@ -197,6 +197,8 @@ dsa/
 |`2996.cpp`|[Smallest Missing Integer Greater Than Sequential Prefix Sum](https://leetcode.com/problems/smallest-missing-integer-greater-than-sequential-prefix-sum/description/)|Array + Hash Table| Easy |
 |`3471.cpp`|[ Find the Largest Almost Missing Integer](https://leetcode.com/problems/find-the-largest-almost-missing-integer/description/)| Unordered Map|Easy|
 |`4038.cpp`|[. Count Integers Appearing in a Single Block](https://leetcode.com/problems/count-integers-appearing-in-a-single-block/description/)|Array| Easy |
+|`3483.cpp`|[Unique 3-Digit Even Numbers](https://leetcode.com/problems/unique-3-digit-even-numbers/)| Eumeration | Easy |
+
 ---
 
 ### 📦 Linked List (`Linked-List/`)
@@ -314,6 +316,7 @@ dsa/
 |`2685.cpp`|[Count the Number of Complete Components](https://leetcode.com/problems/count-the-number-of-complete-components/)| DFS | Medium |
 |`3310.cpp`|[Remove Methods From Project](https://leetcode.com/problems/remove-methods-from-project/)| BFS + DFS | Medium|
 |`940.cpp`|[Distinct Subsequences II](https://leetcode.com/problems/distinct-subsequences-ii/description/)| DP + Array + String| Hard |
+|`2265.cpp`|[Count Nodes Equal to Average of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/)| DFS | Medium |
 
 ### Matrix (`Matrix/`)
 
