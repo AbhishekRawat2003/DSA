@@ -249,7 +249,7 @@ dsa/
 |`3876.cpp`|[Construct Uniform Parity Array II](https://leetcode.com/problems/construct-uniform-parity-array-ii/description/)|Array + Math| Medium |
 |`3870.cpp`|[Count Commas in Range](https://leetcode.com/problems/count-commas-in-range/description/)| Math | Easy |
 |`3871.cpp`|[Count Commas in Range II](https://leetcode.com/problems/count-commas-in-range-ii/description/)| Math | Medium|
-
+|`836.cpp`|[Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/)|Math|Easy|
 ---
 
 ### Greedy (`Greedy/`)
@@ -306,6 +306,7 @@ dsa/
 |`TheGreedyJeweller.cpp`|The Greedy Jeweller| DP + Array| Medium |
 |`1510.cpp`|[Stone Game IV](https://leetcode.com/problems/stone-game-iv/description/)| DP+ Array | Hard|
 |`1563.cpp`|[Stone Game V](https://leetcode.com/problems/stone-game-v/description/)|DP |Hard|
+|`3414.cpp`|[Unique 3-Digit Even Numbers](https://leetcode.com/problems/maximum-score-of-non-overlapping-intervals/)|DP + Hash Map + Graph| Hard|
 ---
 ### ⚡ Graph (`Graph/`)
 
