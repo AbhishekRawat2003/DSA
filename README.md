@@ -307,6 +307,7 @@ dsa/
 |`1510.cpp`|[Stone Game IV](https://leetcode.com/problems/stone-game-iv/description/)| DP+ Array | Hard|
 |`1563.cpp`|[Stone Game V](https://leetcode.com/problems/stone-game-v/description/)|DP |Hard|
 |`3414.cpp`|[Unique 3-Digit Even Numbers](https://leetcode.com/problems/maximum-score-of-non-overlapping-intervals/)|DP + Hash Map + Graph| Hard|
+|`22.cpp`|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|backtrack + recursion| Medium |
 ---
 ### ⚡ Graph (`Graph/`)
 
